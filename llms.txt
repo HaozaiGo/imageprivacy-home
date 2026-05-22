@@ -1,0 +1,10 @@
+# ImagePrivacy
+
+ImagePrivacy is a directory of private browser tools for image metadata and watermark workflows.
+
+Primary URLs:
+- https://imageprivacy.org/
+- https://exif.imageprivacy.org/
+- https://watermark.imageprivacy.org/
+
+The tools are designed to keep image processing in the browser.
