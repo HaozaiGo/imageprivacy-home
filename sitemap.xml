@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://imageprivacy.org/</loc></url>
   <url><loc>https://imageprivacy.org/zh/</loc></url>
+  <url><loc>https://imageprivacy.org/about/</loc></url>
+  <url><loc>https://imageprivacy.org/privacy/</loc></url>
+  <url><loc>https://imageprivacy.org/terms/</loc></url>
+  <url><loc>https://imageprivacy.org/contact/</loc></url>
+  <url><loc>https://imageprivacy.org/zh/about/</loc></url>
+  <url><loc>https://imageprivacy.org/zh/privacy/</loc></url>
+  <url><loc>https://imageprivacy.org/zh/terms/</loc></url>
+  <url><loc>https://imageprivacy.org/zh/contact/</loc></url>
   <url><loc>https://exif.imageprivacy.org/</loc></url>
   <url><loc>https://watermark.imageprivacy.org/</loc></url>
 </urlset>
